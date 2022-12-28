@@ -1,0 +1,11 @@
+{
+  "name": "aws-sns-lambda-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ferrerallan/aws-sns-lambda-nodejs",
+  "author": "Allan Ferreira Config <ferrerallan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1282.0"
+  }
+}
